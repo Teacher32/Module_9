@@ -4,7 +4,7 @@ import java.io.InputStream;
 
 public class OneZeroStream extends InputStream {
 
-    private byte[] bytes = {'1', ' ', '0', ' '};
+    private byte[] bytes = {'1', ' ', '2', ' '};
     int i = 0;
 
     @Override
